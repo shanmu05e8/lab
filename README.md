@@ -1,1 +1,2 @@
-StudentManagementSystem 
+Student Management System - Registration
+
